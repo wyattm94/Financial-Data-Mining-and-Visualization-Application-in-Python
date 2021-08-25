@@ -1,0 +1,9 @@
+mkt,https://query1.finance.yahoo.com/v8/finance/chart/{0}?&lang=en-US&region=US&period1={1}&period2={2}&interval={3}&events=div%7Csplit&corsDomain=finance.yahoo.com
+intraday,https://query1.finance.yahoo.com/v8/finance/chart/{0}?symbol={0}&period1={1}&period2={2}&interval=1m&includePrePost=false&events=div%7Csplit%7Cearn&lang=en-US&region=US&corsDomain=finance.yahoo.com
+news,https://www.finviz.com/quote.ashx?t={0}
+keymetrics1,https://www.finviz.com/quote.ashx?t={0}
+keymetrics2,https://stockrow.com/api/companies/{0}.json?ticker={0}
+etf_expose,https://etfdailynews.com/stock/{0}/
+competitors,https://www.nasdaq.com/symbol/{0}/competitors
+etf_info,https://etfdailynews.com/etf/{0}/
+etf_breakdown,https://etfdb.com/etf/{0}/#etf-holdings&sort_name=weight&sort_order=desc&page=1
