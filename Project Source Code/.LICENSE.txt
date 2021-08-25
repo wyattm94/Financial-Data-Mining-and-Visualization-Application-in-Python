@@ -1,0 +1,14 @@
+NOTICE TO ANY/ALL USERS (8/26/2019): 
+-----
+> All source code written/designed/deployed for, within and/or by this project is to be considered CLOSED SOURCE. 
+> Sole ownership of all source code including the structure, design, implementation, use and annotation belongs to the Author/Maintainer [Wyatt Marciniak]. 
+> Any copying, distributing, reusing, altering, or otherwise sharing, storing or publishing of any unique, custom or personal resources found within this project is strictly prohibited. 
+> Written and signed permission must be obtained by the Maintainer to access this code in any capacity. 
+> Special Usage/Allowance Clause(s) authorized by the Maintainer are as follows (If applicable): 
+
+[Special Clause(s)]: Professor for FE 550 - Stevens Institute of Technology - Hoboken NJ - 07030 - Moriarty [USAGE: Grading/testing/reviewing -- EXPIRATION: Class session end]
+
+> If you have accessed this project without authorization, immediately remove all resources from your local machine and contact the Maintainer.
+
+-----
+Copyright (C) 2018 - 2021 by Wyatt Marciniak (Author/Maintainer) - [wyatt.marciniak@gmail.com]
