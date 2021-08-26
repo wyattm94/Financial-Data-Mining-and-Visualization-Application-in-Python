@@ -1,0 +1,235 @@
+
+/* 
+-----
+Resource: 	Main CSS Stylesheet for finapp.py
+Developer:	Wyatt Marciniak [wyattm94@gmail.com]
+-----
+ Notes:
+> padding/margin = top, right, bottom, left
+
+
+**  # self.update_file.at[curr_asset[1], dtype] = -1
+-----
+*/
+
+/*-----| General classifiers for spacing rows (stacked) and cols (side-by-side) |----- */
+.row{ display: block;}
+.col{ display: inline-block; }
+
+.finappContent{zoom:90%;}
+
+
+/*-----| Header |-----*/
+#appHeader{
+	background-color: rgb(242, 225, 169);
+	width:100%; height: 20px; vertical-align: top; float: left;
+	font-size:15px;
+	border-style: solid; border-color:black;
+}
+#headerH3{margin: 0 0 2px 0;}
+
+/*-----|FOOTER|-----*/
+#appFooter{
+	background-color: black; color: white; height:40px;
+	width: 100%; vertical-align: bottom; float:left;margin:35px 0 0 0;}
+#footerCredTag{float:left;}
+#footerJRImg{
+	width:25px;height:25px;float:right;
+	margin: 10px 10px 10px 0;}
+
+
+/*-----| START: Main App |-----*/
+#appBody{background-color: rgb(209, 209, 209);}
+
+
+/*---------| Left - column |----------*/
+#bodyLeftCol{ 
+	float:left;width: 30%; border-style: solid; border-color:black;}
+
+
+/* LC-1 */
+#fetchControlsP{ width:100%;float:left;}
+	
+}
+#fetchControlsIn{ width:50%;float:left;margin:2px 5px 2px 5px;}
+#fetchControlsBtns{ 
+	width: 50%;
+	vertical-align:top; margin: 5px 0 0 2px;}
+#fetchGoAndUpdWrap{ width:100%;margin: 5px 0 0 0;}
+#otherFetchControls{width:100%;margin: 5px 0 5px 0;}
+
+#fetchRowEquity,#fetchRowEtf,#fetchRowFx,#fetchRowIndices{
+	width: 100%;font-size:20px; 
+	margin: 2px 0 2px 2px;
+	padding: 0 2px 0 2px;
+	border-style: inset;
+	border-color: black;
+	border-width: 1.5px}
+
+#fetchGO,#fetchGOupd,#__tempBtnA,#__tempBtnB{
+	height: 45px;font-size:16px;
+	border-style: outset; border-width: 1px; border-color: black;
+	padding: 2px 2px 2px 2px;}
+
+#fetchGO{width:42%; margin: 0 0 0 10px;}	
+#fetchGOupd{width: 53%; margin: 0 0 0 2px;}
+#fetchLoadUniverseDD{float:left; width: 65%}
+#fetchLoadUniverseSubmit{width: 30%; height: 45px; font-size:16px;} 
+#fetchGO:hover,#fetchGOupd:hover{ font-size: 18px; border-style: solid; border-color: green;background-color:rgb(174, 249, 208);}
+#fetchLoadUniverseSubmit:hover{}
+
+
+
+/*-----|LEFT BAR - DATA REQ/FETCH IO|-----*/
+
+#controlWrap{ 			
+	float: left; width: 100%; 
+	border-top: ridge; 
+	border-top-color: rgb(160, 142, 86); 
+	border-top-width:10px;}
+#localTableWrap{ 
+	margin: 5px 0 0 2px; float:left; height:300px;width:55%;}
+#localControls{ margin: 0 0 0 10px; float:left;width:40%;}
+#tableAllOrNone{ margin-top: 5px; float: left;}
+
+#localTable{ 
+	float: left; flex: none;height:300px;width:100%;font-size:16px;
+	text-align:center;}
+.dash-spreadsheet-inner, .dash-spreadsheet, .dash-list-view, .dash-empty-01,.dash-no-filter, .dash-fill-width{width:100%; height:300px;}
+.cell, .cell-1-1, .cell-0-0{}
+.show-hide{ display: none}
+
+
+
+
+#tableAllOrNone,#tableUpdRemWrap{	width:100%;}
+#tableALL,#tableNONE,#updateSelected,#removeSelected{
+	width:44%; height:40px; font-size:16px; float:left; 
+	text-align:center; margin-top: 10px;
+	border-style: inset; border-color: black; border-width:2px;}
+	
+#tableALL,#updateSelected{ 
+	margin: 10px 5px 0 10px;}
+#tableNONE,#removeSelected{ margin-left: 8px;}
+#tableALL:hover,#tableNONE:hover{ 
+	font-size:25px; background-color:rgb(82, 229, 151);}
+#updateSelected:hover,#removeSelected:hover{
+	font-size:20px; background-color:rgb(82, 229, 151);}
+
+
+
+#dataOpBaseControlsWrap{
+	float:left; width:100%;margin:10px 0 0 2px;
+	border-style:inset; border-color:black; border-width:2px;}
+
+#dataTypeAndFreqWrap{float:left;width:100%;}
+	width:100%;float:left;vertical-align:top; margin:10px 0 0 0;}
+#dcbDataTypeDD, #dcbDataFreqDD{ 
+	width:100%; color:black;margin:0 0 0 2px;
+	display: inline;font-weight:10px;}
+	
+	
+#dateRangeWrap{ 
+	float:left; width:100%;margin:25px 0 10px 0;}
+#dateRangeH{
+	float:left; width:100%;margin: 0 0 0 5px;font-size:25px;
+	text-align:center;
+	text-decoration-line:underline;
+	text-decoration-color:black;}
+
+
+#dateRangeFromIN, #dateRangeToIN{
+	float:left;width:46%;height:30px;font-size:12px;color:black;
+	border-style:outset; border-color:black; border-width:1px;
+	text-align:center;
+	background-color:rgb(232, 232, 232);}
+	
+#dateRangeFromIN{ margin: 5px 0 0 5px;}
+#dateRangeToIN{margin:5px 0 0 5px;}
+#input.dateRangeFromIN{color:black;}
+.Select-input{color:black;}
+.Select.col.is-searchable.Select--single{display:block;width:100%;color:black;}
+.Select-placeholder{display:block;width:100%;color:black;}
+.Select-multi-value-wrapper{display: block;width:100%;color:black;}
+
+
+
+/* SORTING */
+
+#tableSortWrap{ width:100%;margin-top:10px; text-align:center;float:left;}
+#tableSortH{ width:100%; font-size: 25px;margin-top:5px;margin-bottom:2px;}
+
+.Select-multi-value-wrapper, .Select.col.has-value.is-searchable.Select--single{
+	width:100%;display:block; line-height:25px;height:30px; vertical-align:bottom;
+	font-size:18px; margin: 0 0 0 0; padding: 0 0 0 0;flex:none; float:left;
+}
+.Select.col.is-searchable.Select--single{width:100%;}
+.Select-placeholder{width:100%;display:block;}
+.Select-multi-value-wrapper{width:100%; display: block;}
+
+
+#tableSortOps{ width:100%;float:left;}
+#tableSortSelect{ width:58%;float:left}
+
+/* .Select-control, .Select-value, .Select-placeholder, .Select-input,.Select-multi-value-wrapper{width:100%} */
+/* .Select-value-label{width:100%} */
+/* #input#tableSortSelect{width:100%;}
+#input#dcbDataTypeDD,#input#dcbDataFreqDD{width:100%;} */
+
+
+#tableSortAsc,#tableSortDesc{
+	width:20%;float:left;margin-left:1px;height:30px;font-size:12px;
+	border-style: inset; border-color: black; border-width:0.5px;}
+#tableSortAsc:hover,#tableSortDesc:hover{	background-color:rgb(82, 229, 151); border-style: outset;}
+
+
+/* RUN - Left Column */
+
+
+/* #plotRun{
+	margin-top: 20px;
+	width:80%;height:50px;color:black;font-size:20px;
+	margin: 20px 0 0 20px;
+	border-style:outset;
+	border-width:5px;}
+#plotRun:hover{
+	font-size:25px; background-color:rgb(82, 229, 151);
+	border-style:inset;
+	border-width:3px;} */
+
+
+
+/*-----|MAIN BODY|-----*/
+
+#bodyMainCol{ float:left; width:69%; margin: 5px 5px 0 5px;}
+
+
+
+
+
+/* 	
+	#dataRangeSUBMIT{
+	float:left; width:10%; margin:5px 0 0 0; vertical-align: center;height:40px;}
+
+#__homeTAB{float:left; width: 30%;}
+#mainTabs{float:left;width:100%}
+	 */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

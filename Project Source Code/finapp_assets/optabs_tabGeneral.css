@@ -1,0 +1,115 @@
+
+/*----- 
+> Resource for { FinApp }
+> Option Tabs:
+
+-----*/
+
+#plotWrap{
+	float:left;width:100%; border-style: solid;border-color:black; }
+
+#plotPlot{}
+
+#tabsWrap{float:left;width:100%;}
+
+#op_tabs{font-size:15px;}
+
+
+#tabTech{
+	border-style:outset;border-color:gray; border-width:2px;}
+
+#tabTech:hover{
+	border-style:inset;border-color:black; border-width:2px;}
+
+#tabTech_Body{
+	background-color:rgb(166, 227, 244);
+	float:left; width:99%; margin: 0 1px 0 1px;
+	border-style:solid;border-color:black; border-width:2px;
+	height:170px;}
+
+
+/* .Select.col.has-value.is-searchable.Select--single{font-size:12px;}
+.Select-value, .Select-input{font-size:12px;}
+.Select-control{font-size: 12px;}
+.Select-multi-value-wrapper{font-size:12px;} */
+
+#tabTech_row1{float:left; width:100%; margin: 10px 0 0 10px; }
+
+#tabTechH_r1{float: left; width: 35%; font-size:15px;
+	margin:12px 0 0 0;}
+
+#tabTech-dt-dd,#tabTech-df-dd,#tabTech-dc-dd{
+	float:left; font-size:15px;width:20%;}
+
+	
+#tabTech-plotStyleWrap{width:75%;float:left; margin:20px 10px 10px 10px;}
+#tabTech-plotStyleH{width: 25%; float:left; font-size:15px;margin:15px 0 5px 1px;}
+#tabTech-plotStyle{width: 65%; float: left; font-size:10px;}
+
+#tech_plot_modWrap{float:left; width:95%; margin: 2px 2px 2px 2px;}
+#tech_plot_modH{float:left; width:20%; font-size: 15px;}
+#tech_plot_mod{float:left; width:40%;}
+#tech_plot_mod2{float:left; width:40%;}
+
+#tabTech_GO{width:15%;float:left;height:50px;margin: 30px 5px 0 2px;}
+
+
+/*------------------------------*/
+/*----- 3D -----*/
+
+#tab3D_body{
+	background-color:rgb(166, 227, 244);
+	float:left; width:99%; margin: 0 1px 0 1px;
+	border-style:solid;border-color:black; border-width:2px;
+	height:170px;}
+
+#tab3DH_x, #tab3DH_y, #tab3DH_z, #tab3DH_submit{
+	text-align: center;
+	margin: 15px 0 0 0;}
+	
+#col_x, #col_y, #col_z, #col_submit{float:left; width:24%;height:150px;}
+
+
+#3Dx_type, #3Dy_type, #3Dz_type{
+	margin: 15px 0 0 0;float:left;height:40px;width:100%;}
+#3Dx_col, #3Dy_col, #3Dz_col{
+	margin: 15px 0 0 0;float:left;height:40px; width: 100%;}
+#3Dx_targSel,#3Dy_targSel,#3Dz_targSel{
+	margin: 15px 0 0 0;float:left;height:40px; width: 100%;}
+#3D_freq{
+	margin: 15px 0 0 0;float:left;height:40px; width: 100%;}
+	
+#tab3D_GO{ width: 85%; margin: 5px 10px 0 10px; height:40px;}
+
+
+/*------------------------------*/
+/*----- Beta Testing -----*/
+
+#tabBeta_body{
+		background-color:rgb(166, 227, 244);
+	float:left; width:99%; margin: 0 1px 0 1px;
+	border-style:solid;border-color:black; border-width:2px;
+	height:170px; display:show;}
+
+#tabBeta_dataSel{
+float:left; width: 100%;margin:10px 0 0 0;}
+
+#Beta_targWrap{width:100%; float:left;margin: 5px 0 0 5px;}
+#tabBetaH_1{float:left; width:25%;font-size:16px;}
+#Beta_targ{float:left; width:52%;}
+
+#Beta_tcWrap{width:100%; float:left;margin: 5px 0 0 5px;}
+#tabBetaH_2{float:left; width:25%;font-size:16px;}
+#Beta_freq{float:left; width:26%;}
+#Beta_col{float:left; width:26%;}
+
+#tabBeta_plotMods{
+	float:left; width: 100%;
+}
+#tabBetaH_3{float:left; width:15%;font-size:16px;margin:0 0 1px 5px;}
+#Beta_dataMod{float:left; width: 25%;}
+#tabBetaH_4{float:left; width:20%;font-size:16px;margin:10px 0 0 10px;}
+#Beta_plotMod{float:left; width: 12%;}
+#tabBeta_GO{float:left; width: 20%;margin:0 2px 10px 10px;height:30px;}
+
+
