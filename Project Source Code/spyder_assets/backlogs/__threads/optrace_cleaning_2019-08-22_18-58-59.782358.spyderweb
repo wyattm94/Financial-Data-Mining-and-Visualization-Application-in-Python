@@ -1,0 +1,292 @@
+False,None,RID_23-33,0,0.0,None,None,http://www.google.com
+False,None,RID_30-33,0,0.0,None,None,http://www.google.com
+False,None,RID_16-33,0,0.0,None,None,http://www.google.com
+False,None,RID_25-33,0,0.0,None,None,http://www.google.com
+False,None,RID_11-33,0,0.0,None,None,http://www.google.com
+False,None,RID_3-33,0,0.0,None,None,http://www.google.com
+False,None,RID_28-33,0,0.0,None,None,http://www.google.com
+False,None,RID_8-33,0,0.0,None,None,http://www.google.com
+True,200,RID_30-33,1,2.242,185.180.221.222:8080,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36,http://www.google.com
+False,None,RID_0-33,0,0.0,None,None,http://www.google.com
+False,None,RID_3-33,1,3.326,206.81.30.118:3128,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1),http://www.google.com
+False,None,RID_11-33,1,3.457,91.203.27.139:40291,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9,http://www.google.com
+True,200,RID_25-33,1,5.104,208.114.192.126:8080,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0,http://www.google.com
+False,None,RID_1-33,0,0.0,None,None,http://www.google.com
+False,None,RID_0-33,1,3.274,159.65.83.124:3128,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36,http://www.google.com
+False,None,RID_23-33,1,7.033,154.72.95.242:63141,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36,http://www.google.com
+False,None,RID_16-33,1,7.188,79.190.145.143:3128,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Safari/605.1.15,http://www.google.com
+False,None,RID_28-33,1,7.338,221.120.163.253:40844,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36,http://www.google.com
+False,None,RID_8-33,1,9.076,103.122.248.50:8080,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:50.0) Gecko/20100101 Firefox/50.0,http://www.google.com
+False,502,RID_16-33,2,9.38,35.237.245.93:3128,Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0,http://www.google.com
+False,None,RID_3-33,2,10.33,81.163.38.243:41258,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322),http://www.google.com
+False,None,RID_11-33,2,10.464,91.216.66.70:32306,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0,http://www.google.com
+False,None,RID_28-33,2,10.483,45.32.161.208:3128,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:53.0) Gecko/20100101 Firefox/53.0,http://www.google.com
+False,None,RID_1-33,1,7.003,198.27.87.25:80,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36,http://www.google.com
+False,None,RID_0-33,2,10.278,84.42.253.252:52854,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:57.0) Gecko/20100101 Firefox/57.0,http://www.google.com
+False,None,RID_23-33,2,14.04,103.250.157.38:45879,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/536.30.1 (KHTML, like Gecko) Version/6.0.5 Safari/536.30.1,http://www.google.com
+False,None,RID_3-33,3,14.507,43.252.159.114:55799,Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.30 (KHTML, like Gecko) Ubuntu/11.04 Chromium/12.0.742.112 Chrome/12.0.742.112 Safari/534.30,http://www.google.com
+False,None,RID_1-33,2,9.655,204.29.115.149:8080,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36,http://www.google.com
+False,None,RID_8-33,2,16.08,197.159.12.167:61937,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36,http://www.google.com
+False,502,RID_16-33,3,16.385,123.201.5.231:30782,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/534.57.7 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.7,http://www.google.com
+False,None,RID_11-33,3,17.469,102.129.225.98:3129,Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:21.0) Gecko/20130331 Firefox/21.0,http://www.google.com
+False,None,RID_28-33,3,17.489,118.69.140.108:53281,Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2,http://www.google.com
+False,None,RID_1-33,3,12.764,211.252.169.8:80,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/6.2 Safari/537.85.10,http://www.google.com
+False,None,RID_3-33,4,17.952,93.116.185.57:42948,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1.2 Safari/605.1.15,http://www.google.com
+True,200,RID_11-33,4,21.534,125.163.134.60:8080,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2),http://www.google.com
+False,None,RID_19-33,0,0.0,None,None,http://www.google.com
+True,200,RID_23-33,3,22.585,189.204.158.161:8080,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36,http://www.google.com
+False,None,RID_12-33,0,0.0,None,None,http://www.google.com
+False,None,RID_8-33,3,23.085,103.79.228.217:32229,Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.30 (KHTML, like Gecko) Ubuntu/11.04 Chromium/12.0.742.112 Chrome/12.0.742.112 Safari/534.30,http://www.google.com
+False,None,RID_28-33,4,24.493,82.114.78.82:45449,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7; en-us) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21.1,http://www.google.com
+False,None,RID_1-33,4,19.769,114.134.184.216:61904,Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.42 (KHTML, like Gecko) Chromium/25.0.1349.2 Chrome/25.0.1349.2 Safari/537.42,http://www.google.com
+False,None,RID_0-33,3,22.676,103.255.235.243:8080,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.4.10 (KHTML, like Gecko) Version/8.0.4 Safari/600.4.10,http://www.google.com
+False,None,RID_3-33,5,25.036,187.188.211.73:9991,Mozilla/5.0 (X11; U; Linux i686; fr; rv:1.9.2.13) Gecko/20101206 Ubuntu/10.04 (lucid) Firefox/3.6.13,http://www.google.com
+False,None,RID_19-33,1,3.786,196.27.112.190:36635,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0.3 Safari/604.5.6,http://www.google.com
+False,502,RID_16-33,4,26.556,212.72.133.212:47960,Mozilla/5.0 (Windows NT 5.1; rv:29.0) Gecko/20100101 Firefox/29.0,http://www.google.com
+False,None,RID_12-33,1,7.002,202.137.10.180:50001,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:48.0) Gecko/20100101 Firefox/48.0,http://www.google.com
+False,None,RID_8-33,4,30.092,190.29.101.62:44427,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko),http://www.google.com
+False,None,RID_1-33,5,26.776,222.165.214.98:39946,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:52.0) Gecko/20100101 Firefox/52.0,http://www.google.com
+False,None,RID_3-33,6,32.043,87.120.145.59:53281,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50,http://www.google.com
+False,None,RID_28-33,5,33.553,217.219.179.60:5220,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:61.0) Gecko/20100101 Firefox/61.0,http://www.google.com
+False,502,RID_16-33,5,33.562,178.32.59.233:53281,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:48.0) Gecko/20100101 Firefox/48.0,http://www.google.com
+False,None,RID_0-33,4,32.924,178.54.121.110:58071,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30),http://www.google.com
+False,None,RID_19-33,2,13.916,176.106.186.99:51735,Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0,http://www.google.com
+True,200,RID_28-33,6,36.195,179.183.183.211:8080,Safari/13606.2.11 CFNetwork/902.1 Darwin/17.7.0 (x86_64),http://www.google.com
+False,None,RID_2-33,0,0.0,None,None,http://www.google.com
+False,None,RID_12-33,2,14.005,102.129.225.216:3129,Mozilla/5.0 (X11; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0,http://www.google.com
+False,None,RID_8-33,5,37.095,149.172.255.8:8080,Mozilla/5.0 (X11; U; Linux Core i7-4980HQ; de; rv:32.0; compatible; JobboerseBot; https://www.jobboerse.com/bot.htm) Gecko/20100101 Firefox/38.0,http://www.google.com
+False,None,RID_1-33,6,33.782,210.212.69.226:8080,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.74.9 (KHTML, like Gecko) Version/7.0.2 Safari/537.74.9,http://www.google.com
+False,None,RID_3-33,7,39.055,80.106.247.145:53410,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36,http://www.google.com
+False,None,RID_2-33,1,3.76,104.248.152.243:8080,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:53.0) Gecko/20100101 Firefox/53.0,http://www.google.com
+False,502,RID_16-33,6,40.566,181.214.43.34:3129,Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/418.9.1 (KHTML, like Gecko) Safari/419.3,http://www.google.com
+False,None,RID_12-33,3,18.076,203.188.248.130:37503,Mozilla/5.0 (Windows NT 10.0; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0,http://www.google.com
+False,None,RID_0-33,5,39.928,113.53.60.121:8080,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5 (Applebot/0.1; +http://www.apple.com/go/applebot),http://www.google.com
+False,None,RID_19-33,3,20.919,194.44.172.254:23500,Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1),http://www.google.com
+False,500,RID_16-33,7,42.702,173.203.203.165:9191,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4,http://www.google.com
+True,200,RID_12-33,4,20.347,165.227.215.71:8080,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Safari/604.1.38,http://www.google.com
+False,None,RID_18-33,0,0.0,None,None,http://www.google.com
+False,None,RID_8-33,6,44.099,36.90.104.249:8080,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:51.0) Gecko/20100101 Firefox/51.0,http://www.google.com
+True,200,RID_18-33,1,2.63,95.208.208.235:8080,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.1 Safari/605.1.15,http://www.google.com
+False,None,RID_4-33,0,0.0,None,None,http://www.google.com
+False,None,RID_1-33,7,41.157,103.56.232.130:31816,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1.2 Safari/605.1.15,http://www.google.com
+False,None,RID_19-33,4,25.413,203.201.172.91:3128,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36,http://www.google.com
+False,None,RID_2-33,2,10.766,118.175.93.25:31596,Mozilla/5.0 (Windows NT 5.1; rv:30.0) Gecko/20100101 Firefox/30.0,http://www.google.com
+False,None,RID_8-33,7,47.954,103.57.21.30:53281,Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:25.0) Gecko/20100101 Firefox/29.0,http://www.google.com
+False,None,RID_0-33,6,46.932,60.53.193.118:8080,Mozilla/5.0 (X11; U; Linux Core i7-4980HQ; de; rv:32.0; compatible; JobboerseBot; https://www.jobboerse.com/bot.htm) Gecko/20100401 Firefox/24.0,http://www.google.com
+False,None,RID_3-33,8,49.344,103.103.0.140:80,Safari/11603.1.30.0.34 CFNetwork/760.6.3 Darwin/15.6.0 (x86_64),http://www.google.com
+False,None,RID_1-33,8,44.48,181.129.42.178:46129,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36,http://www.google.com
+False,None,RID_19-33,5,28.872,194.125.224.43:48472,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15,http://www.google.com
+False,500,RID_16-33,8,51.075,195.138.92.152:35245,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15,http://www.google.com
+False,None,RID_2-33,3,17.77,181.129.140.83:60893,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.5) Gecko/2008120121 Firefox/3.0.5,http://www.google.com
+False,500,RID_16-33,9,54.669,177.91.127.32:30140,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.google.com
+False,None,RID_8-33,8,54.958,202.63.242.20:56610,Mozilla/5.0 (Windows NT 5.1; rv:43.0) Gecko/20100101 Firefox/43.0,http://www.google.com
+False,None,RID_0-33,7,53.936,36.66.98.6:53281,Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36,http://www.google.com
+False,None,RID_3-33,9,56.351,82.151.114.197:56208,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0,http://www.google.com
+False,None,RID_1-33,9,51.486,186.42.186.202:31203,Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0,http://www.google.com
+False,None,RID_19-33,6,36.096,151.232.72.20:80,Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko),http://www.google.com
+False,502,RID_0-33,8,56.137,206.81.21.42:3128,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36,http://www.google.com
+False,None,RID_4-33,1,12.932,144.217.229.157:1080,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.2 Safari/605.1.15,http://www.google.com
+True,200,RID_19-33,7,38.365,94.177.230.133:8080,MacOutlook/0.0.0.151105 (Intel Mac OS X Version 10.10.5 (Build 14F1509)),http://www.google.com
+False,None,RID_14-33,0,0.0,None,None,http://www.google.com
+False,None,RID_1-33,10,55.065,190.128.234.22:31046,Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1,http://www.google.com
+False,None,RID_2-33,4,24.774,31.3.90.192:40301,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/537.86.3,http://www.google.com
+False,500,RID_16-33,10,61.785,186.47.82.6:41430,Mozilla/5.0 (Linux; U) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.79 Safari/537.4,http://www.google.com
+False,None,RID_8-33,9,61.965,182.253.201.11:58186,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36,http://www.google.com
+False,None,RID_4-33,2,16.772,221.120.163.242:57790,Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/412.6 (KHTML, like Gecko) Safari/412.2,http://www.google.com
+False,None,RID_3-33,10,63.357,123.200.26.22:41829,Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0,http://www.google.com
+False,502,RID_0-33,9,63.252,134.119.205.250:8080,Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/412.6 (KHTML, like Gecko) Safari/412.2,http://www.google.com
+True,200,RID_3-33,11,65.842,54.37.74.251:80,Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en) AppleWebKit/418.9 (KHTML, like Gecko) Safari/419.3,http://www.google.com
+False,None,RID_24-33,0,0.0,None,None,http://www.google.com
+False,None,RID_14-33,1,7.003,190.152.71.30:58727,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.1 Safari/605.1.15,http://www.google.com
+False,None,RID_1-33,11,62.07,35.221.29.58:3128,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.1 Safari/603.1.30,http://www.google.com
+False,None,RID_2-33,5,31.779,169.239.45.37:8080,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36,http://www.google.com
+False,500,RID_16-33,11,68.786,119.202.6.119:8080,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36,http://www.google.com
+False,None,RID_8-33,10,68.968,185.237.80.214:61948,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:39.0) Gecko/20100101 Firefox/39.0,http://www.google.com
+False,None,RID_4-33,3,23.778,91.192.2.168:53281,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1),http://www.google.com
+True,200,RID_0-33,10,68.08,134.119.188.158:8080,Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/419 (KHTML, like Gecko) Safari/419.3,http://www.google.com
+False,None,RID_21-33,0,0.0,None,None,http://www.google.com
+False,None,RID_8-33,11,72.773,101.255.75.46:48041,Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/416.12 (KHTML, like Gecko) Safari/416.13,http://www.google.com
+False,None,RID_24-33,1,7.004,85.207.92.34:8080,Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.24 Safari/537.36,http://www.google.com
+False,None,RID_1-33,12,69.074,36.66.126.71:40317,Mozilla/5.0 (X11; Fedora;Linux x86; rv:60.0) Gecko/20100101 Firefox/60.0,http://www.google.com
+False,None,RID_2-33,6,38.927,191.240.156.154:36127,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:48.0) Gecko/20100101 Firefox/48.0,http://www.google.com
+True,200,RID_14-33,2,15.777,176.196.84.138:51336,Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.google.com
+False,None,RID_13-33,0,0.0,None,None,http://www.google.com
+False,500,RID_16-33,12,75.814,23.237.173.102:3128,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/601.4.4 (KHTML, like Gecko) Version/9.0.3 Safari/537.86.4,http://www.google.com
+True,200,RID_8-33,12,75.84,144.202.110.130:8080,Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0,http://www.google.com
+False,None,RID_6-33,0,0.0,None,None,http://www.google.com
+False,None,RID_4-33,4,30.784,182.253.71.242:9999,Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0,http://www.google.com
+False,None,RID_1-33,13,71.672,94.177.249.107:8080,Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview) Chrome/41.0.2272.118 Safari/537.36,http://www.google.com
+False,None,RID_24-33,2,14.01,186.250.213.225:60774,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36,http://www.google.com
+False,None,RID_4-33,5,34.289,191.37.3.157:48703,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36,http://www.google.com
+False,None,RID_21-33,1,10.5,134.119.205.249:8080,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36,http://www.google.com
+False,None,RID_2-33,7,45.931,93.152.176.222:54136,Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/416.12 (KHTML, like Gecko) Safari/416.13,http://www.google.com
+False,None,RID_13-33,1,7.003,89.109.23.122:8888,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.1),http://www.google.com
+False,500,RID_16-33,13,82.819,193.193.71.178:43857,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/7046A194A,http://www.google.com
+False,None,RID_6-33,1,7.004,201.72.106.99:31181,Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:21.0) Gecko/20130331 Firefox/21.0,http://www.google.com
+True,200,RID_21-33,2,16.007,87.255.13.217:8080,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:32.0) Gecko/20100101 Firefox/32.0,http://www.google.com
+False,None,RID_29-33,0,0.0,None,None,http://www.google.com
+False,None,RID_4-33,6,41.292,154.73.109.85:53281,Mozilla/5.0 (Windows NT 5.1; rv:36.0) Gecko/20100101 Firefox/36.0,http://www.google.com
+False,None,RID_24-33,3,21.066,62.85.52.95:53281,Mozilla/5.0 (X11; U; Linux Core i7-4980HQ; de; rv:32.0; compatible; JobboerseBot; https://www.jobboerse.com/bot.htm) Gecko/20100401 Firefox/24.0,http://www.google.com
+False,None,RID_2-33,8,52.936,104.245.69.26:3128,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0,http://www.google.com
+False,500,RID_16-33,14,89.823,35.198.69.233:80,Mozilla/5.0 (X11; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0,http://www.google.com
+False,None,RID_6-33,2,14.01,101.109.113.168:80,Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview) Chrome/41.0.2272.118 Safari/537.36,http://www.google.com
+False,None,RID_1-33,14,84.882,115.79.24.188:32428,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0.1 Safari/602.2.14,http://www.google.com
+False,None,RID_13-33,2,15.944,83.168.86.189:8090,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36,http://www.google.com
+False,None,RID_4-33,7,48.296,212.154.58.115:35116,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0,http://www.google.com
+False,None,RID_24-33,4,28.07,86.34.197.6:23500,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36,http://www.google.com
+False,None,RID_2-33,9,59.941,193.19.165.222:53281,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0,http://www.google.com
+False,None,RID_29-33,1,10.15,181.48.111.246:49094,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0,http://www.google.com
+False,500,RID_16-33,15,96.827,118.127.99.93:53281,Mozilla/5.0 (X11; U; Linux amd64; rv:5.0) Gecko/20100101 Firefox/5.0 (Debian),http://www.google.com
+False,None,RID_4-33,8,51.694,78.60.130.181:52194,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:35.0) Gecko/20100101 Firefox/35.0,http://www.google.com
+False,None,RID_1-33,15,92.195,110.232.81.69:54022,Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0,http://www.google.com
+False,None,RID_13-33,3,22.95,186.159.3.193:59893,Mozilla/5.0 (Windows NT 5.1; rv:32.0) Gecko/20100101 Firefox/32.0,http://www.google.com
+False,429,RID_16-33,16,100.567,51.79.141.242:8080,Safari/13604.3.5 CFNetwork/889.9 Darwin/17.2.0 (x86_64),http://www.google.com
+False,None,RID_24-33,5,35.072,185.132.228.102:8080,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.2 Safari/605.1.15,http://www.google.com
+False,None,RID_6-33,3,25.854,109.172.57.250:23500,Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0,http://www.google.com
+False,None,RID_2-33,10,67.078,213.32.70.223:8000,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:48.0) Gecko/20100101 Firefox/48.0,http://www.google.com
+False,None,RID_29-33,2,17.152,190.26.19.250:8888,Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36,http://www.google.com
+False,None,RID_4-33,9,58.699,166.150.32.184:43539,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.8.9 (KHTML, like Gecko) Version/7.1.8 Safari/537.85.17,http://www.google.com
+False,None,RID_1-33,16,99.199,103.247.22.251:8080,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36,http://www.google.com
+True,200,RID_6-33,4,28.605,138.197.145.103:3128,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1),http://www.google.com
+False,None,RID_7-33,0,0.0,None,None,http://www.google.com
+False,None,RID_13-33,4,29.953,190.160.31.229:8080,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0; Trident/5.0),http://www.google.com
+False,429,RID_16-33,17,107.573,191.96.42.82:3129,Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36,http://www.google.com
+False,None,RID_24-33,6,42.077,109.86.184.131:49231,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.1 Safari/605.1.15,http://www.google.com
+True,200,RID_2-33,11,72.105,191.7.208.82:50626,MacOutlook/0.0.0.151105 (Intel Mac OS X Version 10.10.5 (Build 14F1509)),http://www.google.com
+False,None,RID_20-33,0,0.0,None,None,http://www.google.com
+False,None,RID_29-33,3,24.155,176.36.164.240:31782,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Safari/604.1.38,http://www.google.com
+True,200,RID_13-33,5,35.125,213.230.121.178:3128,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17,http://www.google.com
+False,None,RID_5-33,0,0.0,None,None,http://www.google.com
+True,200,RID_7-33,1,6.613,191.102.104.66:9991,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/600.7.12 (KHTML, like Gecko) Version/8.0.7 Safari/600.7.12,http://www.google.com
+False,None,RID_31-33,0,0.0,None,None,http://www.google.com
+False,None,RID_4-33,10,65.705,103.85.220.90:53539,Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:21.0) Gecko/20100101 Firefox/21.0,http://www.google.com
+False,None,RID_1-33,17,106.347,130.193.112.146:36923,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:16.0) Gecko/20100101 Firefox/16.0,http://www.google.com
+False,None,RID_24-33,7,45.958,103.70.147.239:39850,Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:39.0) Gecko/20100101 Firefox/39.0,http://www.google.com
+False,None,RID_20-33,1,3.665,213.14.31.122:46323,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36,http://www.google.com
+False,None,RID_29-33,4,27.603,185.132.178.201:1080,Mozilla/5.0 (Windows NT 10.0; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0,http://www.google.com
+False,429,RID_16-33,18,114.576,103.94.0.82:40490,Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko,http://www.google.com
+False,None,RID_29-33,5,31.005,34.65.39.7:3128,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506),http://www.google.com
+False,None,RID_5-33,1,7.006,94.179.135.230:44596,Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0,http://www.google.com
+False,None,RID_31-33,1,7.006,114.134.184.216:61904,Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36,http://www.google.com
+False,None,RID_1-33,18,113.353,74.59.132.126:49073,Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36,http://www.google.com
+False,None,RID_24-33,8,52.963,159.192.140.232:8080,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36,http://www.google.com
+False,None,RID_20-33,2,10.67,77.94.144.162:3128,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50,http://www.google.com
+True,200,RID_29-33,6,33.259,67.205.132.241:3128,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:57.0) Gecko/20100101 Firefox/57.0,http://www.google.com
+False,None,RID_9-33,0,0.0,None,None,http://www.google.com
+False,None,RID_4-33,11,76.012,118.173.233.150:35963,BrightSign/7.1.95 (XT1143) Mozilla/5.0 (Unknown; Linux arm) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.6.0 Chrome/45.0.2454.101 Safari/537.36,http://www.google.com
+False,429,RID_16-33,19,121.582,110.77.199.45:8080,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36,http://www.google.com
+False,None,RID_31-33,2,14.011,103.247.14.76:52944,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36,http://www.google.com
+False,None,RID_1-33,19,120.358,203.202.247.42:80,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36,http://www.google.com
+False,None,RID_24-33,9,60.086,173.212.203.99:8118,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0,http://www.google.com
+False,None,RID_5-33,2,15.124,208.114.192.126:8080,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36,http://www.google.com
+False,None,RID_20-33,3,18.846,88.199.82.189:38383,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36,http://www.google.com
+True,200,RID_31-33,3,17.257,138.201.223.250:31288,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; Media Center PC 6.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E),http://www.google.com
+False,None,RID_26-33,0,0.0,None,None,http://www.google.com
+False,None,RID_4-33,12,83.017,113.160.218.14:46390,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36,http://www.google.com
+False,None,RID_5-33,3,19.002,202.79.25.246:60466,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:55.0) Gecko/20100101 Firefox/55.0,http://www.google.com
+False,None,RID_9-33,1,10.287,101.255.54.177:56410,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0),http://www.google.com
+False,429,RID_16-33,20,131.022,118.175.207.25:38325,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.7.12 (KHTML, like Gecko) Version/7.1.7 Safari/537.85.16,http://www.google.com
+False,None,RID_1-33,20,127.361,112.78.170.28:8080,Mozilla/5.0 (X11; Datanyze; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36,http://www.google.com
+False,None,RID_24-33,10,67.09,91.214.63.77:38704,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36,http://www.google.com
+False,None,RID_20-33,4,25.852,35.194.181.24:8080,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0,http://www.google.com
+False,None,RID_5-33,4,23.57,123.21.93.94:80,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36,http://www.google.com
+False,429,RID_16-33,21,134.64,193.193.240.37:51513,Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36,http://www.google.com
+False,None,RID_26-33,1,7.002,109.248.62.207:38478,Mozilla/5.0 (Windows NT 5.1; rv:29.0) Gecko/20100101 Firefox/29.0,http://www.google.com
+False,None,RID_4-33,13,90.024,182.16.162.89:32247,Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0,http://www.google.com
+False,None,RID_1-33,21,131.33,169.239.223.136:42108,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.0.1) Gecko/20060111 Firefox/1.5.0.1,http://www.google.com
+False,None,RID_20-33,5,29.256,5.167.96.238:3128,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.10) Gecko/20050716 Firefox/1.0.6,http://www.google.com
+False,None,RID_5-33,5,26.762,69.65.65.178:30043,Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Win 9x 4.90),http://www.google.com
+True,200,RID_9-33,2,18.579,138.36.20.43:34307,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7,http://www.google.com
+False,None,RID_22-33,0,0.0,None,None,http://www.google.com
+False,None,RID_24-33,11,76.699,200.206.50.66:42515,Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.30 (KHTML, like Gecko) Slackware/Chrome/12.0.742.100 Safari/534.30,http://www.google.com
+False,None,RID_1-33,22,138.335,35.246.27.234:3128,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.4.4 (KHTML, like Gecko) Version/9.0.3 Safari/601.4.4,http://www.google.com
+False,None,RID_20-33,6,36.261,67.205.172.239:3128,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.10) Gecko/20050716 Firefox/1.0.6,http://www.google.com
+True,200,RID_26-33,2,16.381,192.140.29.218:60514,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0,http://www.google.com
+False,None,RID_10-33,0,0.0,None,None,http://www.google.com
+False,None,RID_22-33,1,7.007,202.166.211.48:48068,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/604.4.7 (KHTML, like Gecko) Version/11.0.2 Safari/604.4.7,http://www.google.com
+False,None,RID_4-33,14,100.185,77.94.112.234:32222,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36,http://www.google.com
+False,429,RID_16-33,22,145.75,103.106.58.22:31003,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/601.6.17 (KHTML, like Gecko) Version/9.1.1 Safari/601.6.17,http://www.google.com
+False,None,RID_24-33,12,80.013,134.209.253.219:3128,Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Win 9x 4.90),http://www.google.com
+False,None,RID_5-33,6,36.992,164.160.141.6:36918,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:63.0) Gecko/20100101 Firefox/63.0,http://www.google.com
+False,None,RID_24-33,13,83.331,206.81.17.199:3128,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36,http://www.google.com
+False,None,RID_20-33,7,43.267,175.41.44.36:52581,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:18.0) Gecko/20100101 Firefox/18.0,http://www.google.com
+False,None,RID_10-33,1,7.182,212.126.107.2:31475,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.2 Safari/605.1.15,http://www.google.com
+False,None,RID_22-33,2,14.014,195.91.253.147:44699,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/603.3.8 (KHTML, like Gecko),http://www.google.com
+False,None,RID_1-33,23,148.478,185.252.144.138:8080,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50,http://www.google.com
+False,None,RID_4-33,15,110.462,36.89.148.87:61620,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4,http://www.google.com
+False,None,RID_24-33,14,90.333,45.64.86.229:36479,Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14,http://www.google.com
+False,429,RID_16-33,23,157.846,103.43.203.225:53281,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705; .NET CLR 1.1.4322),http://www.google.com
+False,None,RID_5-33,7,47.141,80.188.212.2:46723,Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36,http://www.google.com
+False,None,RID_20-33,8,50.271,217.168.76.77:59021,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0,http://www.google.com
+False,None,RID_22-33,3,21.016,201.18.144.234:58467,BrightSign/8.0.69 (XT1143)Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.11.2 Chrome/65.0.3325.230 Safari/537.36,http://www.google.com
+False,None,RID_1-33,24,155.483,41.242.64.205:39792,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/605.1.15 (KHTML, like Gecko),http://www.google.com
+True,200,RID_24-33,15,95.783,211.244.224.130:8080,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36,http://www.google.com
+False,None,RID_17-33,0,0.0,None,None,http://www.google.com
+True,200,RID_10-33,2,17.032,190.152.5.126:53040,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:51.0) Gecko/20100101 Firefox/51.0,http://www.google.com
+False,None,RID_20-33,9,53.701,45.70.85.22:42598,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0,http://www.google.com
+False,503,RID_1-33,25,157.722,207.180.248.27:8118,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36,http://www.google.com
+False,None,RID_4-33,16,117.467,46.246.42.140:3128,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/7.0.6 Safari/537.78.2,http://www.google.com
+True,200,RID_22-33,4,26.302,201.64.22.51:8081,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:48.0) Gecko/20100101 Firefox/48.0,http://www.google.com
+False,500,RID_20-33,10,56.46,46.173.127.93:44366,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322),http://www.google.com
+False,429,RID_16-33,24,164.853,119.202.6.119:8080,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.95 Safari/537.36,http://www.google.com
+False,None,RID_5-33,8,54.146,181.214.68.219:3129,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Safari/605.1.15,http://www.google.com
+False,None,RID_17-33,1,3.882,74.50.211.86:55069,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:53.0) Gecko/20100101 Firefox/53.0,http://www.google.com
+False,403,RID_20-33,11,58.877,190.196.15.43:3128,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.1),http://www.google.com
+False,None,RID_17-33,2,7.249,177.87.15.6:30111,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36,http://www.google.com
+False,None,RID_4-33,17,123.501,61.64.179.220:80,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:53.0) Gecko/20100101 Firefox/53.0,http://www.google.com
+False,503,RID_1-33,26,164.724,1.0.178.73:8080,Mozilla/5.0 (Unknown; Linux) AppleWebKit/538.1 (KHTML, like Gecko) Chrome/v1.0.0 Safari/538.1,http://www.google.com
+False,429,RID_16-33,25,171.858,191.98.184.123:58758,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.google.com
+False,None,RID_5-33,9,61.148,118.173.232.5:34413,Safari/13606.2.11 CFNetwork/902.1 Darwin/17.7.0 (x86_64),http://www.google.com
+True,200,RID_1-33,27,167.491,138.197.157.60:3128,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1),http://www.google.com
+False,403,RID_20-33,12,66.043,177.69.23.177:80,Safari/13604.5.6 CFNetwork/893.13.1 Darwin/17.4.0 (x86_64),http://www.google.com
+False,429,RID_16-33,26,175.56,185.33.34.76:53492,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705),http://www.google.com
+False,None,RID_17-33,3,14.255,167.99.24.49:8118,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7,http://www.google.com
+False,None,RID_5-33,10,65.093,212.73.77.200:48394,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.1 Safari/603.1.30,http://www.google.com
+False,None,RID_4-33,18,132.987,89.109.14.179:41233,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:58.0) Gecko/20100101 Firefox/58.0,http://www.google.com
+True,200,RID_5-33,11,69.207,193.86.229.230:8080,Mozilla/5.0 (X11; U; Linux amd64; en-US; rv:5.0) Gecko/20110619 Firefox/5.0,http://www.google.com
+False,None,RID_27-33,0,0.0,None,None,http://www.google.com
+True,200,RID_16-33,27,180.208,103.106.237.103:30513,Safari/12604.1.38.1.7 CFNetwork/811.5.4 Darwin/16.7.0 (x86_64),http://www.google.com
+False,None,RID_15-33,0,0.0,None,None,http://www.google.com
+False,407,RID_4-33,19,135.186,65.49.1.24:60099,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; Media Center PC 6.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E),http://www.google.com
+False,403,RID_20-33,13,73.048,103.88.234.248:40614,Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/417.9 (KHTML, like Gecko) Safari/417.8,http://www.google.com
+False,None,RID_17-33,4,21.26,149.56.99.222:80,Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; DigExt),http://www.google.com
+False,None,RID_27-33,1,7.004,154.72.202.62:53281,Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en) AppleWebKit/418.9.1 (KHTML, like Gecko) Safari/419.3,http://www.google.com
+False,None,RID_15-33,1,8.029,134.119.205.242:8080,Mozilla/5.0 (Windows NT 10.0; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0,http://www.google.com
+False,None,RID_17-33,5,28.267,109.248.236.150:48554,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.10586,http://www.google.com
+False,407,RID_4-33,20,145.773,179.124.242.34:41886,Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.24 Safari/537.36,http://www.google.com
+False,403,RID_20-33,14,83.331,36.91.146.39:8080,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Safari/604.1.38,http://www.google.com
+False,None,RID_27-33,2,14.01,117.197.40.76:34211,Mozilla/5.0 (compatible; Linux x86_64; Mail.RU_Bot/Fast/2.0; +http://go.mail.ru/help/robots),http://www.google.com
+False,None,RID_15-33,2,15.175,195.138.73.54:47104,Safari/12604.1.38.1.7 CFNetwork/811.5.4 Darwin/16.7.0 (x86_64),http://www.google.com
+False,None,RID_17-33,6,35.273,103.36.81.19:49654,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.1 Safari/605.1.15,http://www.google.com
+False,407,RID_4-33,21,152.345,182.52.238.52:50619,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0,http://www.google.com
+True,200,RID_27-33,3,18.039,177.139.154.222:3128,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.1 Safari/605.1.15,http://www.google.com
+False,403,RID_20-33,15,90.53,181.10.135.221:23500,Mozilla/5.0 (X11; Linux i686; rv:6.0) Gecko/20100101 Firefox/6.0,http://www.google.com
+False,None,RID_17-33,7,39.156,36.89.65.253:40006,Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko),http://www.google.com
+False,407,RID_4-33,22,159.35,110.34.39.58:8080,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36,http://www.google.com
+False,None,RID_15-33,3,25.375,41.79.197.150:8080,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36,http://www.google.com
+False,403,RID_20-33,16,97.535,103.106.119.154:8080,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36,http://www.google.com
+False,None,RID_17-33,8,46.163,200.25.254.148:34805,Safari/13605.1.33.1.2 CFNetwork/897.15 Darwin/17.5.0 (x86_64),http://www.google.com
+False,407,RID_4-33,23,166.535,187.111.160.29:40098,Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.google.com
+False,None,RID_15-33,4,32.379,95.140.27.135:35108,Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.7.10) Gecko/20050716 Firefox/1.0.6,http://www.google.com
+False,403,RID_20-33,17,104.538,182.52.33.252:8080,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.1),http://www.google.com
+False,None,RID_17-33,9,53.165,103.84.68.152:8080,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36,http://www.google.com
+False,407,RID_4-33,24,170.308,195.123.237.121:8080,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506),http://www.google.com
+False,403,RID_20-33,18,111.543,79.170.192.156:56457,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0),http://www.google.com
+False,None,RID_17-33,10,60.171,194.186.173.6:54842,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36,http://www.google.com
+False,None,RID_15-33,5,42.525,85.196.147.146:51702,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.1 Safari/605.1.15,http://www.google.com
+False,403,RID_17-33,11,62.277,191.96.232.50:3129,Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0,http://www.google.com
+False,403,RID_17-33,12,65.678,80.50.141.118:39519,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36,http://www.google.com
+True,200,RID_4-33,25,182.745,182.163.103.99:56552,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36,http://www.google.com
+False,None,RID_15-33,6,49.532,169.239.223.136:44267,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36,http://www.google.com
+False,403,RID_20-33,19,121.825,103.240.161.101:6666,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/534.57.7 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.7,http://www.google.com
+False,403,RID_17-33,13,72.683,91.220.135.146:41258,Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0,http://www.google.com
+False,403,RID_20-33,20,128.831,85.112.77.210:41258,Safari/13604.4.7.1.3 CFNetwork/893.13.1 Darwin/17.3.0 (x86_64),http://www.google.com
+True,200,RID_17-33,14,76.929,50.113.187.160:443,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1,http://www.google.com
+True,200,RID_15-33,7,62.718,181.129.183.19:53281,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1.2 Safari/605.1.15,http://www.google.com
+False,403,RID_20-33,21,135.903,142.44.184.205:80,Mozilla/5.0 (Linux; U) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.79 Safari/537.4,http://www.google.com
+False,403,RID_20-33,22,139.949,203.188.248.130:37503,Mozilla/5.0 (Windows NT 5.1; rv:42.0) Gecko/20100101 Firefox/42.0,http://www.google.com
+True,200,RID_20-33,23,146.543,110.77.197.158:8080,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Safari/605.1.15,http://www.google.com
+False,None,RID_32-33,0,0.0,None,None,http://www.google.com
+False,None,RID_32-33,1,2.463,104.152.45.45:80,Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0,http://www.google.com
+False,None,RID_32-33,2,9.467,103.242.105.182:8181,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36,http://www.google.com
+True,200,RID_32-33,3,15.735,103.89.253.246:3128,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0,http://www.google.com

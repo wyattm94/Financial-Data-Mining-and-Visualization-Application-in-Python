@@ -1,0 +1,10 @@
+False,None,etf_spy-keymetrics_1,0,0.0,None,None,https://www.finviz.com/quote.ashx?t=spy
+False,None,etf_spy-keymetrics_2,0,0.0,None,None,https://stockrow.com/api/companies/spy.json?ticker=spy
+False,None,etf_spy-keymetrics_1,1,4.014,117.6.255.171:38763,Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.7.10) Gecko/20050716 Firefox/1.0.6,https://www.finviz.com/quote.ashx?t=spy
+True,200,etf_spy-keymetrics_2,1,4.509,170.254.226.213:53281,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:16.0) Gecko/20100101 Firefox/16.0,https://stockrow.com/api/companies/spy.json?ticker=spy
+False,None,etf_spy-keymetrics_1,2,8.306,36.83.72.26:80,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763,https://www.finviz.com/quote.ashx?t=spy
+False,None,etf_spy-keymetrics_1,3,12.444,186.249.213.101:53482,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Safari/604.1.38,https://www.finviz.com/quote.ashx?t=spy
+False,None,etf_spy-keymetrics_1,4,16.449,84.214.150.146:8080,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0; Trident/5.0),https://www.finviz.com/quote.ashx?t=spy
+False,None,etf_spy-keymetrics_1,5,20.454,95.172.62.114:49174,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.1 Safari/603.1.30,https://www.finviz.com/quote.ashx?t=spy
+False,None,etf_spy-keymetrics_1,6,24.456,117.196.238.79:55238,Safari/13604.4.7.1.3 CFNetwork/893.13.1 Darwin/17.3.0 (x86_64),https://www.finviz.com/quote.ashx?t=spy
+True,200,etf_spy-keymetrics_1,7,28.486,110.164.58.106:8082,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.4.4 (KHTML, like Gecko) Version/9.0.3 Safari/601.4.4,https://www.finviz.com/quote.ashx?t=spy
